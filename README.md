@@ -88,7 +88,8 @@ Google Form → Google Sheets → n8n → Risk Classification → Power BI Dashb
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1213" height="627" alt="Screenshot 2026-04-04 225156" src="https://github.com/user-attachments/assets/01150da1-5580-48ce-a490-9dd96d8e34d6" />
+
 
 ---
 
